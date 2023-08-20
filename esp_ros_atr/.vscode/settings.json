@@ -1,0 +1,4 @@
+{
+    "commentTranslate.multiLineMerge": true,
+    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/esp32-s3-devkitc-1/Adafruit BusIO"
+}

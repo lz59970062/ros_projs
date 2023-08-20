@@ -1,0 +1,32 @@
+{
+  "title": "Configuration Pid",
+  "block_name_list": [
+    "speedpid1",
+    "speedpid2",
+
+   
+
+    "save_arg",
+    "flag"
+  ],
+  "name_list": [
+    ["ksp1", "ksi1", "ksd1", "exps1"],
+    ["ksp2", "ksi2", "ksd2", "exps2"],
+
+   
+    ["flag1", "flag2", "flag3", "flag4"],
+    ["savep"]
+  ],
+  "value_list": [
+    ["ksp1", "ksi1", "ksd1", "exps1"],
+    ["ksp2", "ksi2", "ksd2", "exps2"],
+
+    
+    ["flag1", "flag2", "flag3", "flag4"],
+    ["savep"]
+  ],
+  "page_name": "setting1",
+  "next_page": "setting2",
+  "type_int": ["savep", "flag1", "flag2", "flag3", "flag4"],
+  "func": ["recover_param.cpp"]
+}

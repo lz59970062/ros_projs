@@ -1,0 +1,26 @@
+{
+  "title": "Configuration Pid 2",
+  "block_name_list": ["gyropid1", "anglepid2", "Sx_pid", "Dx_pid", "save_arg"],
+  "name_list": [
+    ["kgp", "kgi", "kgd", "expg"],
+    ["kap", "kai", "kad", "expa"],
+    ["KSxp", "KSxi", "KSxd", "Exs"],
+
+    ["KDxp", "KDxi", "KDxd", "Exd"],
+
+    ["savep"]
+  ],
+  "value_list": [
+    ["kgp", "kgi", "kgd", "expg"],
+    ["kap", "kai", "kad", "expa"],
+    ["KSxp", "KSxi", "KSxd", "Exs"],
+
+    ["KDxp", "KDxi", "KDxd", "Exd"],
+
+    ["savep"]
+  ],
+  "page_name": "setting2",
+  "next_page": "setting1",
+  "type_int": ["savep"],
+  "func": []
+}
